@@ -17,8 +17,3 @@ const multiply = (a, b) => {
 const divide_free = (a, b) => {
     return a / b;
 };
-
-// 제곱
-const sqaure = (a) => {
-    return a * a;
-};
