@@ -14,6 +14,6 @@ const multiply = (a, b) => {
 };
 
 // 나눗셈
-const divide = (a, b) => {
+const divide_premium = (a, b) => {
     return a / b;
 };
