@@ -19,6 +19,6 @@ const divide_free = (a, b) => {
 };
 
 // 제곱
-const square = (a) => {
+const sqaure = (a) => {
     return a * a;
 };
